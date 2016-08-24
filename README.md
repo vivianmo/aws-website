@@ -1,3 +1,10 @@
+Website made for the Princeton Association of Women in STEM 
+Can be viewed at 
+https://princetonassociationofwomeninstem.github.io/index.html
+
+hosted at: 
+https://github.com/princetonassociationofwomeninstem/princetonassociationofwomeninstem.github.io
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
